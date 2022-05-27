@@ -5,6 +5,7 @@ on:
       - main
     paths-ignore:
       - .gitignore
+      - .git
       - README.md
       - LICENSE
 
