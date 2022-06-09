@@ -1,6 +1,6 @@
 # The Site Configuration
 # bundle exec jekyll s
-
+exclude: [vendor]
 # Import the theme
 theme: jekyll-theme-chirpy
 
@@ -24,7 +24,7 @@ timezone: America/New_York
 
 title: Cartex10                          # the main title
 
-tagline: Programmer, Tinkerer, Gamer   # it will display as the sub-title
+tagline: Programmer / Tinkerer # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   I like to mess around with hardware and software for fun.
@@ -84,7 +84,7 @@ theme_mode: dark
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 
+avatar: assets/deidara1.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
