@@ -11,7 +11,7 @@ tags: [fightboard, current-projects]     # TAG names should always be lowercase
   <span> · </span>
   <a href="/categories/fightboard">Project Logs</a>
 </h4>
-<h4> AUG 2022 - </h4>
+<h4> AUG 2022 - SEPT 2022</h4>
 <img src="/assets/fightboard/v1_silkscreen.jpg" height="2">
 </div>
 
