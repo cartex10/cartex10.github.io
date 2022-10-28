@@ -35,8 +35,8 @@ url: 'https://cartex10.github.io'
 github:
   username: Cartex10             # change to your github username
 
-twitter:
-  username: none            # change to your twitter username
+#twitter:
+#  username: none            # change to your twitter username
 
 social:
   # Change to your full name.
