@@ -29,7 +29,7 @@ tags: [fightboard, current-projects]     # TAG names should always be lowercase
 
 ## File Overview
 <h4> <a href="https://github.com/cartex10/fightboard/blob/main/qmk_firmware/keyboards/fightboard/matrix.c">matrix.c</a> </h4>
-<h5> This the file that handles the I/O expander and the custom matrix. On startup, "matrix_init_custom()" runs and sets up the I/O expander. Afterwards, "matrix_scan_custom()" runs in an infinite loop, and returns True whenever the matrix is different from the last time the function was run. </h5>
+<h5> This is the file that handles the I/O expander and the custom matrix. On startup, "matrix_init_custom()" runs and sets up the I/O expander. Afterwards, "matrix_scan_custom()" runs in an infinite loop, and returns True whenever the matrix is different from the last time the function was run. </h5>
 
 <h4> <a href="https://github.com/cartex10/fightboard/blob/main/qmk_firmware/keyboards/fightboard/keymaps/default/keymap.c">keymap.c</a> </h4>
 <h5> This file handles the conversion from 16-bit binary matrix to a usable keymap. The folder can be copied and renamed to create more flashable keymaps that can be used for the same keyboard. </h5>
